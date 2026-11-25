@@ -56,8 +56,6 @@ print('Predicted CO2 for the corresponding weight and volume:', predictedCO2)
 ```
 ## Output:
 
-### Insert your output
-
 <br><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/10151b37-be45-4c3a-a8a3-e51049164def" />
 
 
